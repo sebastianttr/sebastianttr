@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebastianttr,
-I’m interested in Web Development, Mobile Development and Embedded Technologies 
-I’m currently learning Flutter and Blazor SSR
+specialisitation in Web Development, Mobile Development and Embedded Technologies such as Arduino, ESP-IDF and MDK-ARM
+
 
 
 <!---
