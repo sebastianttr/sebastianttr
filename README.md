@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianttr,
-specializing in Web Development, Mobile Development and Embedded Technologies such as Arduino, ESP-IDF and MDK-ARM
+specializing in Web Development, Mobile Development and Embedded Technologies such as Arduino and ESP-IDF.
 
 
 
